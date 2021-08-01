@@ -1,6 +1,6 @@
 # realestate
 
-A new Flutter project.
+A new Flutter project for real estate.
 
 ## Getting Started
 
